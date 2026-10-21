@@ -1111,19 +1111,14 @@ ol > li:not([class]) {
 
 .adicionar-ao-carrinho {
   position: absolute;
-  left: 21px;
-  top: 373px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  width: 258px;
-  height: 56px;
-  margin: 0;
+  left: 43px;
+  top: 389px;
+  width: 218px;
+  height: 33px;
   font-family: 'Inter', sans-serif;
   font-size: 20px;
   font-weight: 700;
   color: #000000;
-  text-align: center;
 }
 
 .box-56 {
@@ -3105,10 +3100,10 @@ ol > li:not([class]) {
 
 .box-201 {
   position: absolute;
-  left: 638px;
-  top: 932px;
-  width: 726px;
-  height: 74px;
+  left: 645px;
+  top: 931px;
+  width: 718px;
+  height: 79px;
   background-color: #d9d9d9;
   display: block;
 }
@@ -3116,7 +3111,7 @@ ol > li:not([class]) {
 .btn-google-signup-2 {
   position: absolute;
   left: 644px;
-  top: 827px;
+  top: 828px;
   width: 719px;
   height: 78px;
   display: flex;
